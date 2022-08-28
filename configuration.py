@@ -1,0 +1,7 @@
+# Kivy Configuration
+
+# [WINDOW SIZE]
+
+WINDOW_WIDTH = 500
+WINDOW_HEIGHT = 500
+COLS, ROWS = 20, 20
